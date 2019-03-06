@@ -1,0 +1,133 @@
+{
+    "Data": {
+        "Account": {
+            "AccountId": "22289",
+            "Currency": "GBP",
+            "AccountType": "Personal",
+            "AccountSubType": "Savings",
+            "Description": "Cash Transactor Share (Card)",
+            "Account": {
+                "SchemeName": "SortCodeAccountNumber",
+                "Identification": "6092048399659501"
+            }
+        },
+        "Transaction": [
+            {
+                "TransactionId": "7938429926",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-05T10:43:07+00:00",
+                "ValueDateTime": "2017-04-05T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1050.00",
+                        "Currency": "GBP"
+                    }
+                }
+            },
+            {
+                "TransactionId": "7938429921",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-06T10:43:07+00:00",
+                "ValueDateTime": "2017-04-06T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1050.00",
+                        "Currency": "GBP"
+                    }
+                }
+            },
+            {
+                "TransactionId": "7938429922",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-04T10:43:07+00:00",
+                "ValueDateTime": "2017-04-04T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1050.00",
+                        "Currency": "GBP"
+                    }
+                }
+            },
+            {
+                "TransactionId": "7938429923",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-05T10:43:07+00:00",
+                "ValueDateTime": "2017-04-05T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1050.00",
+                        "Currency": "GBP"
+                    }
+                }
+            },
+            {
+                "TransactionId": "7938429924",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-05T10:43:07+00:00",
+                "ValueDateTime": "2017-04-05T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1050.00",
+                        "Currency": "GBP"
+                    }
+                }
+            },
+            {
+                "TransactionId": "4560903265",
+                "Amount": {
+                    "Amount": "500.00",
+                    "Currency": "GBP"
+                },
+                "Type": "InterimBooked",
+                "CreditDebitIndicator": "Credit",
+                "BookingDateTime": "2017-04-05T10:43:07+00:00",
+                "ValueDateTime": "2017-04-05T10:45:22+00:00",
+                "TransactionInformation": "Charity Donation",
+                "TransactionText": "No more details available",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "1550.00",
+                        "Currency": "GBP"
+                    }
+                }
+            }
+        ]
+    },
+    "Links": {},
+    "Meta": {}
+}

@@ -1,0 +1,62 @@
+{
+    "Data": {
+        "Account": [
+            {
+                "AccountId": "22289",
+                "Currency": "GBP",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "20000.00",
+                        "Currency": "GBP"
+                    }
+                },
+                "AvailableBalance": {
+                    "Amount": {
+                        "Amount": "20000.00",
+                        "Currency": "GBP"
+                    }
+                },
+                "AccountName": "Bills",
+                "OpeneningDate": "2017-04-05T10:43:07+00:00",
+                "AccountHolder": "Mr Sam Clement",
+                "AccountType": "Personal",
+                "AccountSubType": "Savings",
+                "Description": "Car Fund",
+                "Account": {
+                    "SchemeName": "SortCodeAccountNumber",
+                    "Identification": "6092048399659501"
+                }
+            },
+            {
+                "AccountId": "22290",
+                "Currency": "GBP",
+                "Balance": {
+                    "Amount": {
+                        "Amount": "30000.00",
+                        "Currency": "GBP"
+                    }
+                },
+                "AvailableBalance": {
+                    "Amount": {
+                        "Amount": "40000.00",
+                        "Currency": "GBP"
+                    }
+                },
+                "AccountName": "Wedding",
+                "OpeneningDate": "2017-04-05T10:43:07+00:00",
+                "AccountHolder": "Mr Sam Clement",
+                "AccountType": "Personal",
+                "AccountSubType": "Savings",
+                "Description": "Wedding Fund",
+                "Account": {
+                    "SchemeName": "SortCodeAccountNumber",
+                    "Identification": "6092048399659501"
+                }
+            }
+        ]
+    },
+    "Links": {},
+    "Meta": {
+        "TotalPages": 1
+    }
+}
